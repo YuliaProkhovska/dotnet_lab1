@@ -1,0 +1,12 @@
+D:\aspdotnetlabs\DenisDotnet\Lab1\ATMApplication\ATMClassLib\bin\Debug\ATMClassLib.dll
+D:\aspdotnetlabs\DenisDotnet\Lab1\ATMApplication\ATMClassLib\bin\Debug\ATMClassLib.pdb
+D:\aspdotnetlabs\DenisDotnet\Lab1\ATMApplication\ATMClassLib\obj\Debug\ATMClassLib.csproj.AssemblyReference.cache
+D:\aspdotnetlabs\DenisDotnet\Lab1\ATMApplication\ATMClassLib\obj\Debug\ATMClassLib.csproj.CoreCompileInputs.cache
+D:\aspdotnetlabs\DenisDotnet\Lab1\ATMApplication\ATMClassLib\obj\Debug\ATMClassLib.dll
+D:\aspdotnetlabs\DenisDotnet\Lab1\ATMApplication\ATMClassLib\obj\Debug\ATMClassLib.pdb
+D:\Уроки\DotNet\Lab_01\ATMApplication\ATMClassLib\bin\Debug\ATMClassLib.dll
+D:\Уроки\DotNet\Lab_01\ATMApplication\ATMClassLib\bin\Debug\ATMClassLib.pdb
+D:\Уроки\DotNet\Lab_01\ATMApplication\ATMClassLib\obj\Debug\ATMClassLib.csproj.AssemblyReference.cache
+D:\Уроки\DotNet\Lab_01\ATMApplication\ATMClassLib\obj\Debug\ATMClassLib.csproj.CoreCompileInputs.cache
+D:\Уроки\DotNet\Lab_01\ATMApplication\ATMClassLib\obj\Debug\ATMClassLib.dll
+D:\Уроки\DotNet\Lab_01\ATMApplication\ATMClassLib\obj\Debug\ATMClassLib.pdb

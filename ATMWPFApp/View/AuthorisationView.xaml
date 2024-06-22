@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="ATMWPFApp.View.AuthorisationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ATMWPFApp.View" xmlns:viewmodel="clr-namespace:ATMWPFApp.ViewModel" d:DataContext="{d:DesignInstance Type=viewmodel:AuthorisationViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="500">
+    <Grid>
+        <TextBlock
+            Text="Авторизація"
+            VerticalAlignment="Top"
+            HorizontalAlignment="Center" Margin="0,49,0,0"
+            FontSize="20">
+
+        </TextBlock>
+        <TextBox Margin="176,141,176,219"
+                 MaxLength="16"
+                 TextAlignment="Center"
+                 Text="{Binding InputText, UpdateSourceTrigger=PropertyChanged}"
+                 
+            />
+        <TextBox Margin="176,186,176,174"
+                 MaxLength="4"
+                 TextAlignment="Center"
+                 Text="{Binding InputPin, UpdateSourceTrigger=PropertyChanged}"
+            />
+        <Button
+            Command="{Binding AuthCommand}"
+            Content="Далі"
+            Width="150" Margin="176,256,174,78"/>
+    </Grid>
+</UserControl>
